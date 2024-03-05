@@ -1,5 +1,5 @@
 [package]
-description = "The fast, collaborative code editor."
+description = "The Storybook of Zed."
 edition = "2021"
 name = "zed"
 version = "0.126.0"
@@ -12,7 +12,7 @@ path = "src/zed.rs"
 doctest = false
 
 [[bin]]
-name = "Zed"
+name = "sb"
 path = "src/main.rs"
 
 [dependencies]
